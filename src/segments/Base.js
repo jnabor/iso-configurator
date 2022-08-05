@@ -5,7 +5,7 @@ import state from '../state';
 
 import '../App.css';
 
-const baseUrl = '/segments/base/';
+const baseUrl = '/iso-configurator/segments/base/';
 
 const Base = () => {
     const snap = useSnapshot(state);

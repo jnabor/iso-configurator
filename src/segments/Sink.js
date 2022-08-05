@@ -5,7 +5,7 @@ import state from '../state';
 
 import '../App.css';
 
-const baseUrl = '/segments/sink/';
+const baseUrl = '/iso-configurator/segments/sink/';
 
 const Sink = () => {
     const snap = useSnapshot(state);

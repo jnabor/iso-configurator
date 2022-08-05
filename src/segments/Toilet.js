@@ -5,7 +5,7 @@ import state from '../state';
 
 import '../App.css';
 
-const baseUrl = '/segments/toilet/';
+const baseUrl = '/iso-configurator/segments/toilet/';
 
 const Toilet = () => {
     const snap = useSnapshot(state);
